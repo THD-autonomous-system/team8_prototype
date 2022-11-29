@@ -22,7 +22,7 @@ def map(ranges):
             y.append(y_new)
     plt.clf()
     plt.scatter(x,y)
-    plt.pause(.1)
+    plt.pause(.05)
     plt.show
     
 	
