@@ -1,4 +1,4 @@
-## Real
+# Real
 
 The files named Sparkassen test shows the path plotted by the physical turtle bot in Room Sparkassen.
 
@@ -6,8 +6,7 @@ The files named Sparkassen test shows the path plotted by the physical turtle bo
 connection established with robot
 launch SLAM
 navigate around room
-
-
+Plot and save the map
 
 
 # Turtlebot3 test run in room Sparkassen
