@@ -2,7 +2,12 @@
 
 The files named Sparkassen test shows the path plotted by the physical turtle bot in Room Sparkassen.
 
-#steps
+# steps
+connection established with robot
+launch SLAM
+navigate around room
+
+
 
 
 # Turtlebot3 test run in room Sparkassen
