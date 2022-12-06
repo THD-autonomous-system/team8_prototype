@@ -1,8 +1,8 @@
 # steps
-connection established with robot
-launch SLAM
-navigate around room
-Plot and save the map
+* connection established with robot
+* launch SLAM
+* navigate around room
+* Plot and save the map
 
 # Real
 
