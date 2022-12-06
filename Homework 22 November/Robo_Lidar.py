@@ -22,6 +22,7 @@ def map(ranges):
             y.append(y_new)
     plt.clf()
     plt.scatter(x,y)
+    plt.scatter(0,0, marker = 'X', s=40,color='k')
     plt.pause(.05)
     plt.show
     
