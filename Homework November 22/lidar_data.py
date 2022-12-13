@@ -70,6 +70,6 @@ class motion:
 
   
 if __name__ == "__main__":
-    rospy.init_node ('scan_values1')
+    rospy.init_node ('lidar_data')
     motion()
     rospy.spin()
